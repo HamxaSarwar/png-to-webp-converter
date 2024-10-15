@@ -2,4 +2,7 @@ node_modules/
 uploads/*
 public/converted/*
 !uploads/.gitkeep
-!public/converted/.gitkeep
+!public/converted/.gitkeepnode_modules/
+uploads/
+public/converted/
+.env
